@@ -4,7 +4,7 @@ from functools import wraps
 
 
 class BeautifulSoupMakeTag:
-	""" Pomocná třída pro BeautifulSoup k vytváření HTML tagů.
+	""" Pomocná třída pro BeautifulSoup k vytváření <HTML> tagů.
 		Používá interní html parser Pythonu.
 
 		class_     --> element["class"]
